@@ -1,7 +1,5 @@
 // SpeciesCounter.java
 // Botswana Johnson
-// // SpeciesCounter.java
-// Botswana Johnson
 // 06/24/2026
 // Encapsulates species data and related operations
 
